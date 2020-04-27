@@ -1,2 +1,8 @@
-# https://play.golang.org/p/Psz0DRHOK7Q
+# trying my hand at recursion
 # https://play.golang.org/p/Lmm2UROHEaR
+# working with slice
+# https://play.golang.org/p/Psz0DRHOK7Q
+# appending to a slice
+# https://play.golang.org/p/lVaQa2SmaQ0
+# deleting from a slice
+# https://play.golang.org/p/-KSTGKD5HrS
