@@ -6,3 +6,7 @@
 # https://play.golang.org/p/lVaQa2SmaQ0
 # deleting from a slice
 # https://play.golang.org/p/-KSTGKD5HrS
+# memory management using make when building slices 
+# https://play.golang.org/p/2ZU3_9spl4w
+# multi-dimensional slices
+# https://play.golang.org/p/0AIINQ8chFb
