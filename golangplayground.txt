@@ -10,3 +10,16 @@
 # https://play.golang.org/p/2ZU3_9spl4w
 # multi-dimensional slices
 # https://play.golang.org/p/0AIINQ8chFb
+# map introductions + looking into conditional map checks for displaying data 
+# https://play.golang.org/p/9RwIbAbqOfB
+# appending to a map 
+# https://play.golang.org/p/guetpSGUJkl
+# range map  
+# https://play.golang.org/p/AM3XIPiUdnZ
+# deleting from a map
+# https://play.golang.org/p/7nlX4saJVca
+# basic struct type
+# https://play.golang.org/p/QDIzvPDEBw_a
+# embedded struct
+# https://play.golang.org/p/snFe4Te2mAG
+# https://play.golang.org/p/Hrzv7ZF3WHe
