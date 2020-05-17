@@ -31,3 +31,6 @@
 # https://play.golang.org/p/bPK1PV9XSnJ
 # function methods
 # https://play.golang.org/p/Xx_jhKni-ZC
+# interfaces and polymophism 
+# https://play.golang.org/p/wY8foABRuln
+
