@@ -23,3 +23,6 @@
 # embedded struct
 # https://play.golang.org/p/snFe4Te2mAG
 # https://play.golang.org/p/Hrzv7ZF3WHe
+# variadic parameters
+# https://play.golang.org/p/PUa5Jdegwee
+# https://play.golang.org/p/dKtcrMmOF4R
