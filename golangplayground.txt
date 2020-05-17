@@ -26,3 +26,4 @@
 # variadic parameters
 # https://play.golang.org/p/PUa5Jdegwee
 # https://play.golang.org/p/dKtcrMmOF4R
+# https://play.golang.org/p/syZLQsMMupx
