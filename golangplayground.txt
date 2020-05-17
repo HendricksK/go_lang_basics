@@ -27,3 +27,7 @@
 # https://play.golang.org/p/PUa5Jdegwee
 # https://play.golang.org/p/dKtcrMmOF4R
 # https://play.golang.org/p/syZLQsMMupx
+# defer
+# https://play.golang.org/p/bPK1PV9XSnJ
+# function methods
+# https://play.golang.org/p/Xx_jhKni-ZC
