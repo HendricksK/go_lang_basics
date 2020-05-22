@@ -33,4 +33,10 @@
 # https://play.golang.org/p/Xx_jhKni-ZC
 # interfaces and polymophism 
 # https://play.golang.org/p/wY8foABRuln
-
+# returning a func 
+# https://play.golang.org/p/MCez2i7XPpr
+# callback functional programming 
+# https://play.golang.org/p/snR3FTwksMZ
+# https://play.golang.org/p/A9kUCk4-vnX
+# closure
+# https://play.golang.org/p/VsjhxVvvuOF
