@@ -42,5 +42,10 @@
 # https://play.golang.org/p/VsjhxVvvuOF
 # recursion
 # https://play.golang.org/p/MYu5ZIRG72C
-# return an int and also return an int and a string 
+# return an int and also return an int and a string my solution
 # https://play.golang.org/p/AZTl4PbuBQ2
+# actual solution
+# https://play.golang.org/p/VHrYDw9rZJE
+# pointers in Go
+# https://play.golang.org/p/UVQx7mUZlDi
+# 
