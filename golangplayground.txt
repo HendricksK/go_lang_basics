@@ -42,3 +42,5 @@
 # https://play.golang.org/p/VsjhxVvvuOF
 # recursion
 # https://play.golang.org/p/MYu5ZIRG72C
+# return an int and also return an int and a string 
+# https://play.golang.org/p/AZTl4PbuBQ2
